@@ -1,0 +1,116 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    width: 1920px;
+    color: black;
+    text-align: left;
+    margin: 10px 10px 0px 0px;
+}
+
+header div {
+    display: inline-block;
+    padding: 15px;
+    width: 110px;
+    text-align: center;
+}
+
+#inicio {
+    border-radius: 10px 10px 0px 0px;
+    margin: 0px 0px 0px 30px;
+    background-color: #E5F2B4;
+}
+
+#historia {
+    background-color: #CEDC96;
+    border-radius: 10px 10px 0px 0px;
+}
+
+#indigenas {
+    background-color: #CDBC97;
+    border-radius: 10px 10px 0px 0px;
+}
+
+#pico {
+    background-color: #CBE07C;
+    border-radius: 10px 10px 0px 0px;
+}
+
+#casarao {
+    background-color: #E8D3A6;
+    border-radius: 10px 10px 0px 0px;
+}
+
+#arvore {
+    width: 70px;
+    height: 50px;
+    margin: 0px 0px 0px 468px;
+}
+
+#imgjaragua {
+    Width: 776px;
+    Height: 452.43px;
+    filter: drop-shadow(-12px 9px 10px rgba(0, 0, 0, 0.3));
+    padding: 10px;
+    border-radius: 20px;
+}
+
+#divimg {
+    margin: 0px 30px 0px 30px;
+    z-index: 0;
+    width: 1300px;
+    position: absolute;
+    background-color: #E5F2B4;
+}
+
+.ladodireito {
+    z-index: 1;
+    position: relative;
+    margin: 15px 50px 0px 860px;
+}
+
+h1 {
+    font-size: 70px;
+}
+
+p {
+    font-size: 20px;
+    margin: 10px;
+}
+
+iframe {
+    margin: 300px 0px 0px 185px;
+    width: 900px;
+    height: 500px;
+}
+
+#iframe {
+    background-color: #E5F2B4;
+    width: 1300px;
+    margin: 0px 30px 0px 30px;
+}
+
+#wave {
+    width: 1300px;
+    height: 577px;
+    margin: 0px 30px 0px 30px;
+
+}
+
+#divwave {
+    z-index: 0;
+    position: absolute;
+}
+
+#divpolaroid {
+    z-index: 1;
+    position: relative;
+}
+
+#polaroid1 {
+    width: 460.8px;
+    height: 386.94px;
+    filter: drop-shadow(-8px 11px 14px rgba(201, 161, 75, 0.6));
+}
